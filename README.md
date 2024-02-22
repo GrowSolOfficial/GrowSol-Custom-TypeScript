@@ -1,5 +1,25 @@
-<a href="https://ibb.co/x7k9vSL"><img src="https://i.ibb.co/9rDKX9g/Final-growsol-logo-03.png" alt="Final-growsol-logo-03" border="0"></a>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Centered</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://ibb.co/x7k9vSL">
+        <img src="https://i.ibb.co/9rDKX9g/Final-growsol-logo-03.png" alt="Final-growsol-logo-03" border="0">
+    </a>
+</body>
+</html>
 
 
 GrowSol, as a milestone, is set to release here on GitHub, its own custom Python script needed to automate the process of reward distribution, for free. 
