@@ -1,4 +1,4 @@
-https://ibb.co/x7k9vSL
+<a href="https://ibb.co/x7k9vSL"><img src="https://i.ibb.co/9rDKX9g/Final-growsol-logo-03.png" alt="Final-growsol-logo-03" border="0"></a>
 
 
 
