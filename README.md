@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/9rDKX9g/Final-growsol-logo-03.png">
+  <img width="6167" height="4168" src="https://i.ibb.co/9rDKX9g/Final-growsol-logo-03.png">
 </p>
 
 
